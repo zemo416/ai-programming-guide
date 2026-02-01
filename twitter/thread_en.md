@@ -1,6 +1,6 @@
 # Twitter Thread: Learn AI Programming from Scratch
 
-> Copy each tweet below and post as a thread on Twitter/X. Replace `[YOUR_GITHUB_LINK]` with your actual repo URL.
+> Copy each tweet below and post as a thread on Twitter/X. Replace `https://github.com/zemo416/ai-programming-guide` with your actual repo URL.
 
 ---
 
@@ -234,7 +234,7 @@ I wrote a complete guide covering all of this with:
 • A clear learning roadmap
 
 It's 100% free on GitHub:
-[YOUR_GITHUB_LINK]
+https://github.com/zemo416/ai-programming-guide
 
 Star it ⭐ if you find it useful!
 

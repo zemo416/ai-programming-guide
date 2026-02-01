@@ -1,6 +1,6 @@
 # 推特推文线程：从零开始学 AI 编程
 
-> 将下面每条推文复制后作为 Thread 发布在 Twitter/X 上。将 `[你的GitHub链接]` 替换为你的实际仓库地址。
+> 将下面每条推文复制后作为 Thread 发布在 Twitter/X 上。将 `https://github.com/zemo416/ai-programming-guide` 替换为你的实际仓库地址。
 
 ---
 
@@ -234,7 +234,7 @@ RAG（检索增强生成）是一个改变游戏规则的技术。
 • 清晰的学习路线图
 
 100% 免费，发布在 GitHub：
-[你的GitHub链接]
+https://github.com/zemo416/ai-programming-guide
 
 觉得有用就给个 Star ⭐！
 
